@@ -1,0 +1,12 @@
+* {
+    border: 1px solid teal;
+}
+
+#selectlabel {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#map {
+    height: 600px;
+    background-color: #ccc;
+}
